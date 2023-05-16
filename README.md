@@ -55,6 +55,3 @@ For detailed instructions on using Terraform, refer to the official Terraform do
 
 Contributions to this repository are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
